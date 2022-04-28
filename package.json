@@ -1,6 +1,6 @@
 {
   "name": "react-redux-realworld-example-app",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "private": false,
   "devDependencies": {
     "cross-env": "^5.1.4",
